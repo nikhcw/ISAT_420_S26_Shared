@@ -25,3 +25,12 @@ After this practice you should be able to
         - For Apple: Open the `Terminal` in launcher and enter the neccesary commands 
 1. Launch a jupyter notebook to test whether your installation works by running the notebook in the `Code` directory:  `w7_environment_test.ipynb`
 1. (Optional): Use the provided `environment.yml` file to update your environment. 
+
+## Learning Checklist
+
+- I understand that using environments is beneficial on the long term, because it allows me to experiment with additional packages, without being afraid of breaking anything
+- I am able to create new conda environments, activate them, and switch between them.
+- I understand that packages installed with `conda install ...` are always installed in the environment which is currently active. `(base)` is like any other environment: it is simply the default one. 
+- I am able to install new packages using `conda`. 
+- I have used the environment.yml file to create a new environment for this course that contains all the packages that I need right now. 
+- I know that I need to execute all code for this class using this newly created environment
